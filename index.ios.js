@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import { AppRegistry, Image, Text, View, StyleSheet,ListView,  ScrollView, TextInput } from 'react-native';
 
 //This is a component sort of like an activity
